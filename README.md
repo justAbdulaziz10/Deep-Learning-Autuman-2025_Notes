@@ -26,5 +26,6 @@ All notebooks are synced with GitHub so I don’t lose progress.
 ---
 
 ## 🔗 References
-	•	[Official CS230 Notes](https://cs230.stanford.edu/syllabus/)
-	•	[YouTube Playlist[(https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
+	-	[Official CS230 Notes](https://cs230.stanford.edu/syllabus/)
+	-	[YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
+	-   [Abdulaziz Alkhlaiwe](https://www.linkedin.com/in/abdulaziz-alkhlaiwe/)
